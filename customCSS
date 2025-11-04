@@ -1,0 +1,31 @@
+<style>
+  .tw-drop-shadow-lg {
+    --tw-drop-shadow: drop-shadow(0 10px 8px rgb(0 0 0 / .04)) drop-shadow(0 4px 3px rgb(0 0 0 / .1));
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+}
+  .tw-bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(27 27 34 / var(--tw-bg-opacity));
+}
+  .tw-text-black {
+    color: #fff;
+}
+  .tw-border-t-2 {
+    border-color: #000;
+    border-top-width: 0;
+}
+  .widget-list-container {
+        background-color: #1B1B22;
+    }
+  .sail-btn-branded {
+    border-color: transparent;
+    background-color: #5B55FF;
+    border-radius: 6rem!important;
+  }
+  .padding-with-welcome-bar {
+    padding-bottom: 0!important;
+}
+  .padding-with-header-widget {
+    padding-bottom: 0!important;
+}
+</style>
